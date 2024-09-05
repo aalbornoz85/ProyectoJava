@@ -3,14 +3,14 @@ package ejercicios;
 public class Ejercicio_02 {
     public static void main(String[] args) {
         // Declaro variables
-        int a = 10;
-        int b = 20;
+        int a = 7;
+        int b = 8;
 
         // Sumo variables
-        int suma = a + b;
+        int Resultado = a * b;
 
-        // Mostrar el resultado
-        System.out.println("La suma de " + a + " y " + b + " es " + suma);
+        // Muestro el resultado
+        System.out.println("La multiplicación de " + a + " + " + b + " es = " + Resultado);
     }
 
 }
