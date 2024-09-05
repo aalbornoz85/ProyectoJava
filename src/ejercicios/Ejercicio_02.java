@@ -6,7 +6,7 @@ public class Ejercicio_02 {
         int a = 7;
         int b = 8;
 
-        // Sumo variables
+        // Multiplico variables
         int Resultado = a * b;
 
         // Muestro el resultado
