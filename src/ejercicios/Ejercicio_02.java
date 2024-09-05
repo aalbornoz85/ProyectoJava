@@ -10,7 +10,7 @@ public class Ejercicio_02 {
         int Resultado = a * b;
 
         // Muestro el resultado
-        System.out.println("La multiplicación de " + a + " + " + b + " es = " + Resultado);
+        System.out.println("La multiplicación de " + a + " x " + b + " es = " + Resultado);
     }
 
 }
