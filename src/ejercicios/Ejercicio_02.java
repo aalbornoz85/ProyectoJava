@@ -2,11 +2,11 @@ package ejercicios;
 
 public class Ejercicio_02 {
     public static void main(String[] args) {
-        // Declarar las variables
-        int a = 5;
-        int b = 10;
+        // Declaro variables
+        int a = 10;
+        int b = 20;
 
-        // Sumar las variables
+        // Sumo variables
         int suma = a + b;
 
         // Mostrar el resultado
