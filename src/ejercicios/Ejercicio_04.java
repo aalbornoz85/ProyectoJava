@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ejercicio_04 {
     public static void main(String[] args) {
 
-        int numero = 29;
+        int numero = 5;
 
         // Verificar si el número es primo
         if (esPrimo(numero)) {
@@ -14,7 +14,7 @@ public class Ejercicio_04 {
 
     }
 
-    // Método para verificar si un número es primo
+    // Metodo verifica si número es primo
     public static boolean esPrimo(int numero) {
         // Los números menores o iguales a 1 no son primos
         if (numero <= 1) {
