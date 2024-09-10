@@ -2,9 +2,7 @@ package ejercicios;
 
 public class Ejercicio_24 {
     public static void main(String[] args) {
-        int a = 3;
-        int Inicio = 1;
-        int Fin = 50;
+        int a = 3, Inicio = 1, Fin = 50;
         int suma = 0;
 
         // Recorrer el rango y sumar los múltiplos de a
